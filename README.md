@@ -1,3 +1,5 @@
+⚠️Important: Please be aware that results may have strong hallucinations. This project was for fun/testing.
+
 # 🧠 Local RAG with Ollama, LangChain & Chroma
 
 A lightweight Retrieval-Augmented Generation (RAG) pipeline using:
